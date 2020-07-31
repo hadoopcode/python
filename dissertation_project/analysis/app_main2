@@ -1,0 +1,28 @@
+import pandas as pd
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.externals import joblib
+
+if __name__ == '__main__':
+    keyword_matrix = pd.read_csv(
+        r'F:\project\pycharm_workplace\dissertation_project\etl_data\data\keyword_matrix_target.csv')
+    df = keyword_matrix[keyword_matrix['PD_YEAR'] == 2019]
+    # df2 = keyword_matrix[keyword_matrix['PD_YEAR'] == 2018]
+    # df = pd.concat([df1, df2])
+    data = df.iloc[:, :keyword_matrix.shape[1] - 2]
+    target = df[['PN', 'target.1']]
+    knn = joblib.load(r'F:\project\pycharm_workplace\dissertation_project\analysis\model\knn.pkl')
+    y_predict = knn.predict(data.iloc[:, 2:].values.tolist())
+    target['predict'] = y_predict
+    target.to_csv(r'F:\project\pycharm_workplace\dissertation_project\analysis\data\result1\predict1.csv')
+    print('over')
+
+
+def train():
+    keyword_matrix = pd.read_csv(
+        r'F:\project\pycharm_workplace\dissertation_project\etl_data\data\keyword_matrix_target.csv')
+    data = keyword_matrix.iloc[:, 2:keyword_matrix.shape[1] - 2]
+    target = keyword_matrix.iloc[:, keyword_matrix.shape[1] - 1]
+    knn = KNeighborsClassifier(n_neighbors=20, weights='distance')
+    knn.fit(data, target)
+    joblib.dump(knn, r'F:\project\pycharm_workplace\dissertation_project\analysis\model\knn.pkl')
+    print('over')
