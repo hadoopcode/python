@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="690e671c-173c-4206-86aa-7e73f84fd019" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="b4725d0b-59db-4768-9e9c-9623de594855" />
+  <component name="ProjectId" id="1OjXOSVgfU37QFL3eacH6SJAF4o" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="data_analysis" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="data_analysis" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\project\pycharm_workplace\data_analysis\vsc" />
+      <recent name="F:\project\pycharm_workplace\data_analysis\data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\project\pycharm_workplace\data_analysis\data" />
+      <recent name="F:\project\pycharm_workplace\data_analysis\notebooks" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="data_analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data_analysis" type="PythonConfigurationType" factoryName="Python">
+      <module name="data_analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\Python\Anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="690e671c-173c-4206-86aa-7e73f84fd019" name="Default Changelist" comment="" />
+      <created>1562349882997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562349882997</updated>
+      <workItem from="1562349887053" duration="693000" />
+      <workItem from="1562679661737" duration="267000" />
+      <workItem from="1563713914448" duration="309000" />
+      <workItem from="1564492000824" duration="352000" />
+      <workItem from="1565699255391" duration="601000" />
+      <workItem from="1565867560537" duration="1388000" />
+      <workItem from="1566050006832" duration="1896000" />
+      <workItem from="1566052673274" duration="38000" />
+      <workItem from="1566052790714" duration="48000" />
+      <workItem from="1567951961952" duration="2632000" />
+      <workItem from="1568041097458" duration="1146000" />
+      <workItem from="1568299556852" duration="678000" />
+      <workItem from="1568365113208" duration="3999000" />
+      <workItem from="1568391549050" duration="491000" />
+      <workItem from="1568647582178" duration="1004000" />
+      <workItem from="1571659405470" duration="102000" />
+      <workItem from="1571659562827" duration="213000" />
+      <workItem from="1571665132453" duration="379000" />
+      <workItem from="1571668138044" duration="1792000" />
+      <workItem from="1572356453533" duration="1213000" />
+      <workItem from="1572693159653" duration="74000" />
+      <workItem from="1572693789672" duration="1003000" />
+      <workItem from="1572695334844" duration="737000" />
+      <workItem from="1574225771277" duration="433000" />
+      <workItem from="1574226327267" duration="100000" />
+      <workItem from="1575367480250" duration="1497000" />
+      <workItem from="1575369077876" duration="64000" />
+      <workItem from="1575985890262" duration="1265000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="432" y="233" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1575369028187">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="432" y="233" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1366.728/1366.0.2560.1400@0.0.1366.728" timestamp="1575369028187" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1575987212234">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.2560.1400@0.0.1366.728" timestamp="1575368999707" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1575987212234" />
+    <state x="211" y="4" key="SettingsEditor" timestamp="1575987230022">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="211" y="4" key="SettingsEditor/0.0.1366.728/1366.0.2560.1400@0.0.1366.728" timestamp="1575368460822" />
+    <state x="211" y="4" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1575987230022" />
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1575367488835">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.2560.1400@0.0.1366.728" timestamp="1575367488835" />
+    <state x="334" y="168" key="com.jetbrains.python.documentation.PythonDocumentationEntryEditor" timestamp="1575986334200">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="334" y="168" key="com.jetbrains.python.documentation.PythonDocumentationEntryEditor/0.0.1366.728@0.0.1366.728" timestamp="1575986334200" />
+  </component>
+</project>

@@ -1,0 +1,86 @@
+FN Clarivate Analytics Web of Science
+VR 1.0
+PT P
+PN CN108122234-A
+TI Method for training convolutional neural network, involves adjusting network parameters of convolutional neural network according to first difference and second difference.
+AU LUO F
+   DAN J
+AE BEIJING SENSETIME TECHNOLOGY DEV CO LTD (BEIJ-Non-standard)
+   UNIV FOSHAN (UYFS-C)
+GA 201847086B
+AB    NOVELTY - The method involves detecting (S100) a raw sample image containing target object label information and a scrambled sample image corresponding to the original sample image based on a convolutional neural network to obtain the original image for the original image. A first prediction information of the target object in the sample image and second prediction information for the target object in the scrambled sample image. A first difference between the first prediction information and the annotation information, and a second difference between the first prediction information and the second prediction information are determined (S200). The network parameters of the convolutional neural network is adjusted (S300) according to the first difference and the second difference.
+   USE - Method for training convolutional neural network.
+   ADVANTAGE - The method effectively reduces the inter-frame jitter of the video frame images in the detection process.
+   DETAILED DESCRIPTION - INDEPENDENT CLAIMS are included for the following:
+   (1) a video processing method;
+   (2) a convolution neural network training device;
+   (3) a video processing device; and
+   (4) an electronic device.
+   DESCRIPTION OF DRAWING(S) - The drawing shows a flowchart illustrating the steps of a convolutional neural network training method. (Drawing includes non-English language text)
+   Step for detecting raw sample image (S100)
+   Step for determining first difference and second difference (S200)
+   Step for adjusting network parameters of convolutional neural network (S300)
+DC T01 (Digital Computers); W03 (TV and Broadcast Radio Receivers)
+MC T01-J04B2; T01-J10B2; T01-J10B3A; T01-N01B3; W03-A11D; W03-A16C5A
+IP G06T-007/11; G06T-007/194; H04N-021/44
+PD CN108122234-A   05 Jun 2018   G06T-007/11   201842   Pages: 22   Chinese
+AD CN108122234-A    CN11073607    29 Nov 2016
+PI CN11073607    29 Nov 2016
+UT DIIDW:201847086B
+ER
+
+PT P
+PN CN108108858-A; WO2019141040-A1
+TI Short-term power load prediction method of power system, involves predicting actual power consumption of measured power load and obtaining predicted power consumption of measured power load according to determined network prediction model.
+AU WANG R
+   ZHANG X
+   HE M
+   WANG J
+   WU G
+   RONG H
+   XIONG Y
+AE UNIV FOSHAN (UYFS-C)
+   FOSHAN YOUYIJIA TECHNOLOGY CO LTD (FOSH-Non-standard)
+   UNIV FOSHAN (UYFS-C)
+   FOSHAN YOUYIJIA TECHNOLOGY CO LTD (FOSH-Non-standard)
+GA 201845409F
+AB    NOVELTY - The method involves establishing a deep belief network prediction model of a four-layer network structure. The actual power consumption of the measured power load is combined to train the deep belief network prediction model using an unsupervised greedy algorithm. The parameter values of each layer of the deep belief network prediction model are obtained and the activation function of the deep belief network prediction model is set. The mapping relationship between the input and output of the deep belief network prediction model is obtained through training and learning. The actual power consumption of the measured power load is predicted and the predicted power consumption of the measured power load is obtained according to the determined depth belief network prediction model.
+   USE - Short-term power load prediction method of power system.
+   ADVANTAGE - The depth belief network prediction network is introduced into the power load power prediction, and the internal relationship between the input and the output is learned to realize a prediction of the load power consumption for the period of time through the deep structure of the network. The short-term power load prediction process largely predicts the accuracy and speed of prediction and is created to predict the short-term power load conditions.
+   DESCRIPTION OF DRAWING(S) - The drawing shows a flowchart illustrating the short-term power load prediction process. (Drawing includes non-English language text)
+DC T01 (Digital Computers)
+MC T01-N01A2; T01-N01B3
+IP G06N-003/04; G06N-003/08; G06Q-010/04; G06Q-050/06
+PD CN108108858-A   01 Jun 2018   G06Q-010/04   201841   Pages: 7   Chinese
+   WO2019141040-A1   25 Jul 2019   G06Q-010/04   201956      Chinese
+AD CN108108858-A    CN10059484    22 Jan 2018
+   WO2019141040-A1    WOCN122401    20 Dec 2018
+PI CN10059484    22 Jan 2018
+DS WO2019141040-A1: 
+		      (National): AE; AG; AL; AM; AO; AT; AU; AZ; BA; BB; BG; BH; BN; BR; BW; BY; BZ; CA; CH; CL; CN; CO; CR; CU; CZ; DE; DJ; DK; DM; DO; DZ; EC; EE; EG; ES; FI; GB; GD; GE; GH; GM; GT; HN; HR; HU; ID; IL; IN; IR; IS; JO; JP; KE; KG; KH; KN; KP; KR; KW; KZ; LA; LC; LK; LR; LS; LU; LY; MA; MD; ME; MG; MK; MN; MW; MX; MY; MZ; NA; NG; NI; NO; NZ; OM; PA; PE; PG; PH; PL; PT; QA; RO; RS; RU; RW; SA; SC; SD; SE; SG; SK; SL; SM; ST; SV; SY; TH; TJ; TM; TN; TR; TT; TZ; UA; UG; US; UZ; VC; VN; ZA; ZM; ZW
+      (Regional): BW; GH; GM; KE; LR; LS; MW; MZ; NA; RW; SD; SL; ST; SZ; TZ; UG; ZM; ZW; EA; AL; AT; BE; BG; CH; CY; CZ; DE; DK; EE; ES; FI; FR; GB; GR; HR; HU; IE; IS; IT; LT; LU; LV; MC; MK; MT; NL; NO; PL; PT; RO; RS; SE; SI; SK; SM; TR; OA
+UT DIIDW:201845409F
+ER
+
+PT P
+PN CN108134979-A
+TI Small base station switch control method based on deep neural network, involves calculating real value of predicted coordinate in sample error by using actual coordinate and predicted coordinate.
+AU PAN Z
+   DU P
+   YOU X
+   LIU N
+AE UNIV SOUTHEAST (UYSE-C)
+GA 201846315R
+AB    NOVELTY - The method involves sampling user information collected in a base station. The user number, access time, and user location information of accessing the base station are recorded. The user data collected by the base station is collated and merged into path data that can be trained by the model, and data samples of all users are combined to obtain a sample set that is ultimately used for training. A neural network model is constructed to select a fully connected neural network as the training model. The average square error is used to calculate the training error. The commonly used forward propagation method is used to obtain a training result during training. The reverse propagation method is used to update the parameters in the neural network. The real value of the predicted coordinate in the sample error is calculated by using the actual coordinate and the predicted coordinate. The data to be predicted is collected and the position of the user is predicted at the next time.
+   USE - Small base station switch control method based on deep neural network.
+   ADVANTAGE - The accuracy of prediction and the practicality of system can be improved.
+DC T01 (Digital Computers); W01 (Telephone and Data Transmission Systems); W02 (Broadcasting, Radio and Line Transmission Systems)
+MC T01-E01C; T01-J04A; T01-N01B3; W01-A06C4; W01-A06D; W01-A06E; W02-C03C1B
+IP G06N-003/08; H04W-004/02; H04W-004/029; H04W-052/02
+PD CN108134979-A   08 Jun 2018   H04W-004/02   201842   Pages: 7   Chinese
+AD CN108134979-A    CN11261843    04 Dec 2017
+PI CN11261843    04 Dec 2017
+UT DIIDW:201846315R
+ER
+
+EF
