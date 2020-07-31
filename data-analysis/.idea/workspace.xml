@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24f18d68-c0a2-4ee1-96ab-d701aaad1603" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="b4725d0b-59db-4768-9e9c-9623de594855" />
+  <component name="ProjectId" id="1UnMe15GZiOS4P0lGBRXT2voLQR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+  </component>
+  <component name="RunManager" selected="Python.data-analysis">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="data-analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data-analysis" type="PythonConfigurationType" factoryName="Python">
+      <module name="data-analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dwpi_dataprocess" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="data-analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dwpi_dataprocess.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.dwpi_dataprocess" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24f18d68-c0a2-4ee1-96ab-d701aaad1603" name="Default Changelist" comment="" />
+      <created>1575987998283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575987998283</updated>
+      <workItem from="1575988003266" duration="776000" />
+      <workItem from="1577194784515" duration="3938000" />
+      <workItem from="1577200043086" duration="53000" />
+      <workItem from="1577200304707" duration="15159000" />
+      <workItem from="1577233900033" duration="2365000" />
+      <workItem from="1577237808028" duration="1392000" />
+      <workItem from="1577239239505" duration="5687000" />
+      <workItem from="1578287492643" duration="1030000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="438" y="233" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1577200148318">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="438" y="233" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1366.728@0.0.1366.728" timestamp="1577200148318" />
+    <state width="1364" height="440" key="DebuggerActiveHint" timestamp="1577239400877">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1364" height="440" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1577239400877" />
+    <state x="458" y="105" key="FileChooserDialogImpl" timestamp="1577200136523">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="458" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1577200136523" />
+    <state width="637" height="154" key="GridCell.Tab.0.bottom" timestamp="1577245003160">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="637" height="154" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577245003160" />
+    <state width="637" height="154" key="GridCell.Tab.0.center" timestamp="1577245003160">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="637" height="154" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577245003160" />
+    <state width="637" height="154" key="GridCell.Tab.0.left" timestamp="1577245003160">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="637" height="154" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577245003160" />
+    <state width="637" height="154" key="GridCell.Tab.0.right" timestamp="1577245003160">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="637" height="154" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577245003160" />
+    <state width="637" height="154" key="GridCell.Tab.1.bottom" timestamp="1577245003160">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="637" height="154" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577245003160" />
+    <state width="637" height="154" key="GridCell.Tab.1.center" timestamp="1577245003160">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="637" height="154" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1577245003160" />
+    <state width="637" height="154" key="GridCell.Tab.1.left" timestamp="1577245003160">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="637" height="154" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1577245003160" />
+    <state width="637" height="154" key="GridCell.Tab.1.right" timestamp="1577245003160">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="637" height="154" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1577245003160" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1577202528694">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1577202528694" />
+    <state width="691" height="372" key="XDebugger.FullValuePopup" timestamp="1577239400893">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="691" height="372" key="XDebugger.FullValuePopup/0.0.1366.728@0.0.1366.728" timestamp="1577239400893" />
+    <state x="368" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1577200043117">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="368" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1577200043117" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1577198392221">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1577198392221" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="init_matrix[column][c]" language="Python" />
+        <watch expression="row[row != 0]" language="Python" />
+        <watch expression="row[row != 0].index" language="Python" />
+        <watch expression="row[row != 0].index.to_list()" language="Python" />
+      </configuration>
+      <configuration name="main">
+        <watch expression="init_matrix[column][c]" language="Jupyter" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/data_analysis$data_analysis.coverage" NAME="data-analysis Coverage Results" MODIFIED="1577239311119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
